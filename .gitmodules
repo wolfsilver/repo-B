@@ -4,6 +4,3 @@
 [submodule "sub-B"]
 	path = sub-B
 	url = git@github.com:wolfsilver/sub-B.git
-[submodule "sub-C"]
-	path = sub-C
-	url = git@github.com:wolfsilver/repo-C.git
